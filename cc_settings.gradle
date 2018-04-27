@@ -2,5 +2,5 @@ File getProjectDir(String dir) {
     return new File("${buildscript.sourceFile.getParent()}/${dir}")
 }
 
-include ':ccCoocaaBrowserApk'
-project(':ccCoocaaBrowserApk').projectDir = getProjectDir("")
+include ':skyBrowser'
+project(':skyBrowser').projectDir = getProjectDir("")

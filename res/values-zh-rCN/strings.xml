@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- 菜单界面 -->
+    <string name="app_name">浏览器</string>
+    <string name="forward">前进</string>
+    <string name="back">后退</string>
+    <string name="refrush">刷新</string>
+    <string name="stop_refrush">停止</string>
+    <string name="collect_website">收藏网站</string>
+    <string name="windows">多窗口</string>
+    <string name="setting">设置</string>
+    <string name="exitbtn">退出</string>
+    <string name="deletelabel">删除标签成功</string>
+    <string name="no_bookmark">尚未添加书签</string>
+    <string name="exit">再按一次返回退出</string>
+    <string name="last_label_no_deletion">已经是最后一个标签了</string>
+    <string name="no_network">暂时没有网络连接！</string>
+    <string name="menu">菜单</string>
+
+    <!-- 收藏界面相关 -->
+    <string name="collection_title">收藏夹</string>
+    <string name="collection_tips">还没有收藏过网站</string>
+    <string name="collected">已收藏</string>
+    <string name="cancel_collect">取消收藏</string>
+    <string name="collectblank">当前网页是空白页，不能收藏哦</string>
+
+    <!-- 浏览记录界面相关 -->
+    <string name="history_title">浏览记录</string>
+    <string name="history_tips">还没有浏览记录</string>
+
+    <!-- 设置界面相关 -->
+    <string name="setting_title">设置</string>
+    <string name="ua_setting_tip">UA设置：</string>
+    <string name="ipad_ua">ipad UA</string>
+    <string name="desktop_ua">桌面 UA</string>
+    <string name="clear_cache_tip">清除缓存：</string>
+    <string name="clear_cache">一键清除浏览器缓存</string>
+    <string name="clear_cache_small_tip">清除浏览器在磁盘上的临时文件</string>
+    <string name="clear_cache_ok">清除缓存成功</string>
+    <string name="clear_history">清除历史痕迹</string>
+    <string name="clear_history_tip">清除浏览历史记录信息</string>
+    <string name="clear_history_ok">清除历史成功</string>
+
+    <!-- 多窗口界面相关 -->
+    <string name="multi_window_title">多窗口</string>
+    <string name="add_new_window_str">添加新窗口</string>
+    <string name="new_label">新建标签</string>
+    <string name="reachmaxnumber">已达到窗口数量最大值</string>
+
+    <!-- 加载网页失败相关 -->
+    <string name="net_error_title">网络异常</string>
+    <string name="load_content_error">获取内容异常</string>
+    <string name="set_net_title">设置网络</string>
+    <string name="try_refrush">刷新看看</string>
+
+    <!-- 首页相关 -->
+    <string name="search_text_input">输入搜索内容或网址aa</string>
+    <string name="search">搜索</string>
+
+</resources>

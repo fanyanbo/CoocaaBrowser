@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Legal abrir o navegador</string>
+    <string name="forward">A Frente</string>
+    <string name="back">Para trás</string>
+    <string name="refrush">Refresh</string>
+    <string name="stop_refrush">Parar</string>
+    <string name="collect_website">Site collection</string>
+    <string name="windows">Multi - janela</string>
+    <string name="setting">Set</string>
+    <string name="exitbtn">A saída</string>
+    <string name="deletelabel">Remover a Marca de SUCESSO</string>
+    <string name="no_bookmark">Não adicionar AOS favoritos</string>
+    <string name="exit">Pressione novamente para sair</string>
+    <string name="last_label_no_deletion">Já é final de um rótulo.</string>
+    <string name="no_network">Não há conexão de rede!</string>
+    <string name="menu">Menu</string>
+    <string name="collection_title">AOS favoritos</string>
+    <string name="collection_tips">O site também não.</string>
+    <string name="collected">Já a coleção</string>
+    <string name="cancel_collect">Abolição</string>
+    <string name="collectblank">A página é UMA página EM Branco, não!</string>
+    <string name="history_title">Histórico de navegação</string>
+    <string name="history_tips">Também não há registros de navegação</string>
+    <string name="setting_title">Set</string>
+    <string name="ua_setting_tip">AI está:</string>
+    <string name="ipad_ua">O iPad AI</string>
+    <string name="desktop_ua">Desktop AI</string>
+    <string name="clear_cache_tip">Limpar o cache:</string>
+    <string name="clear_cache">Para limpar o cache do navegador</string>
+    <string name="clear_cache_small_tip">O browser de arquivos temporários no disco</string>
+    <string name="clear_cache_ok">Limpar o cache de SUCESSO</string>
+    <string name="clear_history">Limpar o histórico.</string>
+    <string name="clear_history_tip">Limpar o histórico de navegação de informações</string>
+    <string name="clear_history_ok">Limpar o histórico de SUCESSO</string>
+    <string name="multi_window_title">Multi - janela</string>
+    <string name="add_new_window_str">A janela adicionar Novo</string>
+    <string name="new_label">Nova Marca</string>
+    <string name="reachmaxnumber">Atingiu o número máximo de janela</string>
+    <string name="net_error_title">Anomalias de rede</string>
+    <string name="load_content_error">Acesso a conteúdo anormal</string>
+    <string name="set_net_title">Configuração de rede</string>
+    <string name="try_refrush">Refresh.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="browser_table"></dbname>
+
+    <version value="2"></version>
+
+    <list>
+        <mapping class="com.skyworth.tv_browser.data.HistorySupport" />
+        <mapping class="com.skyworth.tv_browser.data.BookmarkSupport" />
+    </list>
+</litepal>

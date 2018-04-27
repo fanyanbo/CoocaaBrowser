@@ -1,34 +1,47 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "26.0.1"
+    compileSdkVersion gradle.ext.api
+    buildToolsVersion gradle.ext.buildTools
+
     defaultConfig {
-        applicationId "com.coocaa.tv_browser"
-        minSdkVersion 17
-        targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        applicationId "com.skyworth.tva_browser"
+        minSdkVersion gradle.ext.minSdkVersion
+        targetSdkVersion gradle.ext.targetSdkVersion
+        versionCode 1000006
+        versionName "1.0.6"
+        //multiDexEnabled true
     }
+
     buildTypes {
+        debug {
+        }
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            debuggable false
         }
     }
+
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+    buildToolsVersion '25.0.0'
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-    compile project(path: ':ccSkySDK')
-    compile project(path: ':ccSystemServiceSDK')
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'com.android.support:support-v4:25.3.1'
-    testCompile 'junit:junit:4.12'
+    compile project(':ccSkySDK')
+    compile project(':ccSystemServiceSDK')
+    compile project(':ccUserServiceSDK')
+    compile project(':ccWebSDK')
+  //  compile project(':ccPowerWebViewSDK')
     compile project(path: ':ccExASystemWebViewSDK')
+    compile fileTree(dir: 'libs', include: ['*.jar'])
 }

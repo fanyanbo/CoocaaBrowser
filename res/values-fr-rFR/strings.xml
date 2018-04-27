@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Va ouvrir le Navigateur</string>
+    <string name="forward">Avancer</string>
+    <string name="back">Reculez</string>
+    <string name="refrush">Rafraîchir</string>
+    <string name="stop_refrush">Arrêter</string>
+    <string name="collect_website">Collection de sites</string>
+    <string name="windows">De multiples fenêtres</string>
+    <string name="setting">Ensemble</string>
+    <string name="exitbtn">Sortir de</string>
+    <string name="deletelabel">Supprimer l\'étiquette avec succès</string>
+    <string name="no_bookmark">Pas encore ajouter un signet</string>
+    <string name="exit">Encore une fois de retour en fonction de la sortie</string>
+    <string name="last_label_no_deletion">C\'est déjà la dernière étiquette</string>
+    <string name="no_network">Il n\'y a pas de connexion réseau!</string>
+    <string name="menu">Menu</string>
+    <string name="collection_title">Favoris</string>
+    <string name="collection_tips">Il n\'y a pas de collection de sites</string>
+    <string name="collected">A Collection</string>
+    <string name="cancel_collect">L\'annulation de la collection</string>
+    <string name="collectblank">La page courante est une page vierge, pas de collection oh</string>
+    <string name="history_title">Historique de navigation</string>
+    <string name="history_tips">Pas encore de l\'historique de navigation</string>
+    <string name="setting_title">Ensemble</string>
+    <string name="ua_setting_tip">UA:</string>
+    <string name="ipad_ua">IPad UA</string>
+    <string name="desktop_ua">Le Bureau UA</string>
+    <string name="clear_cache_tip">Nettoyer le cache:</string>
+    <string name="clear_cache">Une clé pour nettoyer le cache du Navigateur</string>
+    <string name="clear_cache_small_tip">Effacer le fichier temporaire dans le navigateur sur le disque</string>
+    <string name="clear_cache_ok">Nettoyer le cache de succès</string>
+    <string name="clear_history">Effacer l\'historique de traces</string>
+    <string name="clear_history_tip">Effacer l\'historique d\'informations de navigation</string>
+    <string name="clear_history_ok">Effacer l\'historique de réussite</string>
+    <string name="multi_window_title">De multiples fenêtres</string>
+    <string name="add_new_window_str">Ajouter une nouvelle fenêtre</string>
+    <string name="new_label">Nouvel onglet</string>
+    <string name="reachmaxnumber">A atteint le nombre maximum de fenêtre</string>
+    <string name="net_error_title">Une anomalie de réseau</string>
+    <string name="load_content_error">Pour obtenir le contenu anormal</string>
+    <string name="set_net_title">Configuration de réseau</string>
+    <string name="try_refrush">Rafraîchir</string>
+</resources>

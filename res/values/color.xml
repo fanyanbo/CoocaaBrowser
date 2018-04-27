@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ffffff">#ffffff</color>
+    <color name="a0ffffff">#a0ffffff</color>
+    <color name="ff7f24">#ff7f24</color>
+    <color name="a70ffffff">#b0ffffff</color>
+    <color name="ff061527">#061527</color>
+    <color name="ff000000">#ff000000</color>
+    <color name="ff333333">#ff333333</color> <!-- 黑色 -->
+    <color name="ff5b5b5b">#505050</color> <!-- 灰色 -->
+    <color name="ff999999">#707070</color>
+    <color name="ff2c2c2c">#8c9daa</color>
+    <color name="menu_item_word_5b5b5b">#505050</color>
+    <color name="huise_999999">#707070</color>
+
+    <color name="unfocus_text_color">#505050</color>
+    <color name="focus_text_color">#000000</color>
+    <color name="error_text_color">#9A9A9B</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

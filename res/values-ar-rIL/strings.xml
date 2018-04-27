@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">بارد افتح المتصفح</string>
+    <string name="forward">إلى الأمام</string>
+    <string name="back">تراجع</string>
+    <string name="refrush">تحديث</string>
+    <string name="stop_refrush">توقف</string>
+    <string name="collect_website">موقع مجموعة</string>
+    <string name="windows">متعدد نافذة</string>
+    <string name="setting">إعدادات</string>
+    <string name="exitbtn">خروج</string>
+    <string name="deletelabel">حذف علامة النجاح</string>
+    <string name="no_bookmark">لم يتم إضافة العناوين</string>
+    <string name="exit">اضغط مرة أخرى العودة إلى الانسحاب</string>
+    <string name="last_label_no_deletion">بالفعل هو آخر العلامات</string>
+    <string name="no_network">لا اتصال الشبكة!</string>
+    <string name="menu">القائمة</string>
+    <string name="collection_title">المفضلة</string>
+    <string name="collection_tips">لم أكثر من موقع</string>
+    <string name="collected">وقد جمع</string>
+    <string name="cancel_collect">إلغاء</string>
+    <string name="collectblank">الصفحة الحالية هي صفحة فارغة، لا يمكن جمع يا</string>
+    <string name="history_title">سجل التصفح</string>
+    <string name="history_tips">لم تصفح سجل</string>
+    <string name="setting_title">إعدادات</string>
+    <string name="ua_setting_tip">المقدمة: UA</string>
+    <string name="ipad_ua">باد UA</string>
+    <string name="desktop_ua">سطح المكتب UA</string>
+    <string name="clear_cache_tip">مسح ذاكرة التخزين المؤقت:</string>
+    <string name="clear_cache">زر مسح ذاكرة المتصفح</string>
+    <string name="clear_cache_small_tip">مسح الملفات المؤقتة في المتصفح على القرص</string>
+    <string name="clear_cache_ok">مسح ذاكرة التخزين المؤقت النجاح</string>
+    <string name="clear_history">إزالة آثار التاريخ</string>
+    <string name="clear_history_tip">مسح تاريخ التصفح المعلومات</string>
+    <string name="clear_history_ok">واضح من تاريخ النجاح</string>
+    <string name="multi_window_title">متعدد نافذة</string>
+    <string name="add_new_window_str">إضافة نافذة جديدة</string>
+    <string name="new_label">تسمية جديدة</string>
+    <string name="reachmaxnumber">وقد بلغ عدد النوافذ في أقصى</string>
+    <string name="net_error_title">شبكة الشذوذ</string>
+    <string name="load_content_error">الحصول على المحتوى غير طبيعي</string>
+    <string name="set_net_title">إعدادات الشبكة</string>
+    <string name="try_refrush">تحديث وانظر</string>
+</resources>
