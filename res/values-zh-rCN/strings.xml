@@ -54,7 +54,7 @@
     <string name="try_refrush">刷新看看</string>
 
     <!-- 首页相关 -->
-    <string name="search_text_input">输入搜索内容或网址aa</string>
+    <string name="search_text_input">输入搜索内容或网址[beta]</string>
     <string name="search">搜索</string>
 
 </resources>
