@@ -1,0 +1,10 @@
+def projectInit() {
+	
+	// 示例
+	//include ':ccService'
+    //project(':ccService').projectDir = new File(gradle.ext.project)
+}
+
+ext {
+    projectInit = this.&projectInit
+}

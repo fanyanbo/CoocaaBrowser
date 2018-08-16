@@ -1,0 +1,2 @@
+if (new File("cc_settings.gradle").exists())
+    apply from: "cc_settings.gradle"
